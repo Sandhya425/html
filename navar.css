@@ -1,0 +1,17 @@
+*{
+    padding:0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+ul{
+     list-style-type: none;
+    display: flex;
+    justify-content: center;
+    background-color: yellow;
+
+}
+a{
+    text-decoration: none;
+    color:blue;
+   
+}
