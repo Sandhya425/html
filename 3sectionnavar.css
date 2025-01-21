@@ -1,0 +1,21 @@
+.nav li ul li a{
+    text-decoration:none ;
+    padding: 10px;
+    color: black;
+}
+.nav{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav li ul{
+    list-style-type: none;
+    display: flex;
+}
+.nav  li ul li a i{
+    color: green;
+}
+#z{
+    color: red;
+}

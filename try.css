@@ -1,0 +1,25 @@
+.navar{
+    display: flex;
+    list-style: none;
+    background-color: black;
+    justify-content: center;
+     margin:0px;
+    padding: 10px 60px 10px 10px;
+    align-items: center;
+   
+}
+.nav{
+    color: white;
+    padding: 0px 5px 0px 60px ;
+}
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+.cor{
+   color: white;
+   text-decoration: none;
+   border: 3px solid;
+   padding:5px 5px 5px 5px;
+   margin: 0px 0px 0px 90px;
+}

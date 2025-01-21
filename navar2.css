@@ -1,0 +1,49 @@
+*{
+    margin:opx;
+    padding:opx;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+ .navar{
+    display:flex;
+    background-color: black;
+    justify-content: space-between;
+    align-items: center;
+    padding:15px 100px 15px 100px;
+    list-style-type:none; 
+
+}
+.navar li a img{
+    width: 150px;
+}
+.navar li ul{
+    display:flex;
+    align-items: center ;
+}
+.navar li ul li a{
+    text-decoration: none;
+    color: white;
+    /* border: 2px solid red;
+    margin: 10px; */
+    padding: 10px;
+    
+}
+.contact{
+    background-color: yellow;
+    padding: 10px 0px 10px 0px;
+}
+.contact a{
+    color:black !important;
+}

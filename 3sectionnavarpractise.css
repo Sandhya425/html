@@ -1,0 +1,14 @@
+.navar {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+ .navar li ul{
+    list-style-type: none;
+    /* display: flex;
+    justify-content: space-between; */
+} 
+.navar li ul li a{
+    text-decoration: none;
+    /* justify-content: space-between; */
+}

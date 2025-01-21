@@ -1,0 +1,85 @@
+.navar{
+    display: flex;
+    background-color: black;
+    justify-content: center;
+    margin:0px;
+    align-items: center;
+}
+.navar article div{
+    color: white;
+   margin: 10px 50px 10px 0px;
+    padding: opx 30px opx opx
+}
+.nav{
+    color: white;
+    border: 2px solid rgb(123, 121, 121);
+    border-radius: 5px;
+    padding: 3px 5px 5px 3px;
+    margin: 0px 0px 0px 40px;
+
+}
+*{
+     margin: 0px;
+    padding:0px 10px opx 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.navar2{
+    display: flex;
+    margin: 10px 10px 0px 5px;
+    justify-content: space-between;
+    align-items: center;
+}
+ .navar2 article{
+    display: flex;
+    margin: 0px;
+    color: rgb(132, 128, 128);
+}
+.navar2 article div{
+    margin: 0px 40px 0px 0px;
+    
+}
+
+.navar2 article div a{
+    color: rgb(132, 128, 128);
+}
+/*                                                           */
+.searchbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 100px 20px 100px;
+}
+.searchbar article{
+    display: flex;
+    align-items: center;
+}
+.searchbar article div a img{
+    width: 130px;
+}
+.searchbara2{
+    border: 2px solid blue;
+    border-radius: 5px;
+}
+.searchbara2d3{
+    background-color: blue;
+    padding: 10px;
+    color: white;
+}
+.searchbar .searchbara2 div input{
+    border: none;
+    outline: none;
+    padding: 10px;
+    width: 400px;
+}
+.searchbar .searchbara2 div select{
+    border: none;
+    outline: none;
+}
+.searchbar .lastarticle div a {
+    padding: 0px 20px 0px 20px;
+}
+.searchbara2d3  a i{
+  color: white;
+}
+
