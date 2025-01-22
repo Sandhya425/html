@@ -71,15 +71,28 @@
     outline: none;
     padding: 10px;
     width: 400px;
+    background:transparent;
+    color: rgb(245, 238, 238);
+}
+
+.searchbar .searchbara2 div input::placeholder{
+    color: aliceblue;
 }
 .searchbar .searchbara2 div select{
     border: none;
     outline: none;
+    background: transparent;
 }
 .searchbar .lastarticle div a {
-    padding: 0px 20px 0px 20px;
+    padding: 0px 10px 0px 20px;
+    color:black ;
 }
 .searchbara2d3  a i{
   color: white;
+}
+.vi{
+    width: 100%;
+   position: absolute;
+   z-index: -2;
 }
 
