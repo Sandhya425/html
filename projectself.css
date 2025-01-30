@@ -1,0 +1,67 @@
+.project{
+    display: flex;
+    justify-content:space-between;
+}
+.project article{
+    display: flex;
+    margin: 15px 0px 0px 0px;
+}
+.project article div a{
+    text-decoration: none;
+     padding: 0px 50px 0px 5px; 
+
+}
+#hom{
+    color: black;
+}
+#con{
+    color:rgb(207, 205, 203);
+}  
+#shop{
+    color: rgb(207, 205, 203);
+}  
+#blog{
+    color:rgb(207, 205, 203); ;
+}
+#about{
+    color: rgb(207, 205, 203);
+}
+.log div a{
+    color: black;
+    
+}
+.image{
+    margin: 100px 200px 200px 700px;
+    position: absolute;
+    z-index: 1;
+    width: 400px;
+     /* background-color: rgb(209, 214, 218); */ 
+     mix-blend-mode:color-burn;
+}
+.head{
+    margin: 30px;
+    /* position: relative; */
+    align-items: center;
+    background-color: rgb(209, 214, 218);
+     padding: 100px; 
+     border-radius: 30px;
+}
+ #beat{
+    font-size: 30px;
+}
+#wire{
+    font-size: 90px;
+}
+#phon{
+    font-size:190px ;
+    color: aliceblue;
+}
+#by{
+    background-color: rgb(241, 21, 21);
+    border-radius: 7px;
+    font-size: 15px;
+    padding: 10px;
+}
+#ph{
+    font-size: 20px;
+}

@@ -1,0 +1,34 @@
+.ppp{
+    color: aqua;
+}
+.ppp:hover{
+    color: rgb(0, 255, 60);
+    /* background-color: blue; */
+    /* jaha bhi krser jayga uska color change ho jayga jab tak bo curser usper rhega tab tak */
+}
+
+
+.ppp::selection{
+    color:bisque;
+    background-color: rgb(255, 0, 166);
+    /* jab copy ya kisi chij ko select krna ho tab selection use krna  */
+}
+*::selection{
+    color:bisque;
+    background-color: blue;
+    /* esse puri web m lag jayga chahe ham kahi bhi copy kre ya selet kre  */
+}
+
+
+.in::placeholder{
+    color:red;
+/* enter name ka color change change hoga  */
+}
+.in{
+    color: blueviolet;
+    /* only jab type krenge tab color change hoga */
+}
+
+.fo::before{
+    content: "++++";
+}
