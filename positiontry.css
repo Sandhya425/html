@@ -2,10 +2,11 @@
     position: absolute;
     right:  0px;
     top: 90px;
+    /* grid-column: auto; */
 
     
 }
 .navar article {
-    border: 1px solid black;
+    border: 1px solid rgb(15, 12, 12);
     border-radius: 5px;
 }

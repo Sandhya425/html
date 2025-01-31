@@ -9,7 +9,8 @@
 .ssr{
    display: flex;
    justify-content: space-between;
-   /* margin: 40px; */
+  /* position: sticky;
+  top: 0px; */
    
 }
 .imgg{
