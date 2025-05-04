@@ -5,18 +5,7 @@
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
- .navar{
+.navar{
     display:flex;
     background-color: black;
     justify-content: space-between;
@@ -47,3 +36,10 @@
 .contact a{
     color:black !important;
 }
+
+
+/* @media(max-width:768px){
+    .navar{
+        display:none !important;
+    }
+} */

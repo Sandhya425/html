@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.nav{
+    margin-left: 350px;
+   
+}
+.nav a{
+    text-decoration: none;
+    margin-left: 25px;
+}
+#flower{
+    font-size: 50px;
+    margin-left: 100px;
+    text-decoration: none;
+    margin-top: 20px;
+    color: palevioletred;
+   
+}
+
+#font{
+    margin-left: 250px;
+    font-size: 20px;
+}
+#font1{
+    font-size: 20px;
+}  
+#font2{
+    font-size: 20px;
+ }

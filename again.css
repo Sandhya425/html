@@ -1,0 +1,16 @@
+#image{
+    position: absolute;
+    z-index: -3;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+}
+.macho {
+   color:white;
+   margin-top: 300px;
+   margin-left: 200px;
+}
+#one{
+   font-size: 10px ;
+}
