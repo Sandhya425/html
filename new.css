@@ -106,12 +106,41 @@ font-size: 18px;
 #ch{
     font-size: 35px;
 }
+/* --------------------------------------offer-------------------- */
+
+#off{
+    margin-top: 250px;
+    /* mix-blend-mode: color-burn; */
+    border: 1px solid transparent;
+    width: 340px;
+    height: 220px;
+background-image: url("https://img.freepik.com/premium-photo/flower-watercolor-background-design-floral-border-floral-wedding-invitation_605423-24788.jpg");
+}
+#day1{
+  font-size: 30px;
+  margin-left: 80px;
+  margin-top: 100px;
+}
+#happy{
+      font-size: 20px;
+  margin-left: 60px;
+}
+.wer{
+    display: flex;
+    justify-content: space-between;
+    margin-left:180px ;
+    margin-right:180px;
+}
+#off:hover{
+       transform: scale(1.1);
+      }
+/* ---------------------------------------------About */
 #about{
     font-size: 40px;
    /* background-color: rgb(249, 202, 210); */
    margin-left: 340px;
    margin-right: 340px;  
-   margin-top: 240px;
+   margin-top: 60px;
   padding-left: 280px;
 }
 .sec{
@@ -126,9 +155,6 @@ font-size: 18px;
     padding: 10px 60px;
     justify-content: center;
 }
-/* .arti{
-    border: 1px solid black;
-} */
 #free{
     padding-top: 10px;
     font-size: 25px;
@@ -144,10 +170,10 @@ font-size: 18px;
     padding-right: 10px;
     margin-top: 10px;
 }
-/* --------------------------------------------------------------------------------- */
+/* ------------------------------------------latest product--------------------------------------- */
 #lat{
     padding-left: 600px;
-    margin-top: 20px;
+    margin-top: 60px;
     font-size: 40px;
 }
 #arti {
@@ -193,16 +219,62 @@ padding-left: 100px;
     background-color:rgb(234, 176, 185)
    
 }
-/* ---------------------------------------------------------------------------------------------------------------------------------------------- */
-#cust{
-    padding-left: 600px;
-    margin-top: 20px;
+/* -----------------------------------------------------------------------------top products----------------------------------------------------------------- */
+#top{
+    margin-left: 600px;
+    margin-top: 50px;
     font-size: 40px;
+   margin-bottom: 20px;
 }
-.rew{
+.pro{
     display: flex;
-  
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+   margin-top: 20px;
 }
-#m{
-   
+.pro article div{
+    margin-top: 5px;
 }
+#pink{
+    margin-left: 60px;
+    color: rgb(132, 134, 135);
+    
+}
+#dol{
+      margin-left: 80px;
+       color: rgb(81, 82, 83);
+}
+/* -------------------------------------------------------custmer reviews-------------------- */
+
+#cust{
+    margin-left: 600px;
+    margin-top: 80px;
+    font-size: 40px;
+   margin-bottom: 20px;
+}
+.rew {
+
+ display: flex;
+ justify-content:space-evenly;
+}
+.rew article{
+  padding:20px 10px 20px 15px ;
+    border: 1px solid black;
+    width: 300px;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+}
+#ch{
+    margin-left: 80px;
+    font-size: 20px;
+   margin-top: 7px;
+}
+#star{
+      margin-left: 90px;
+    font-size: 15px;
+    margin-top: 10px;
+}
+/* -------------------------------------------------------------------------------- */
+
+
