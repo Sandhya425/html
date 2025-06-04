@@ -176,7 +176,7 @@ background-image: url("https://img.freepik.com/premium-photo/flower-watercolor-b
     margin-top: 60px;
     font-size: 40px;
 }
-#arti {
+/* #arti {
     padding-bottom: 130px;
     width: 320px;
     height: 260px;
@@ -205,8 +205,8 @@ background-image: url("https://img.freepik.com/premium-photo/flower-watercolor-b
 font-size: 25px;
 color: rgb(108, 109, 110);
 padding-left: 100px;
-}
-#pri{
+} */
+/* #pri{
     font-size: 30px;
     color:pink;
     padding-left: 70px;
@@ -218,6 +218,40 @@ padding-left: 100px;
     border: 1px solid transparent;
     background-color:rgb(234, 176, 185)
    
+} */
+ /* --------------------------------------------------------poster---------------------------------- */
+ .col{
+    margin-top: 80px;
+    display: flex;
+    /* justify-content: space-around; */
+    background-color:rgb(245, 211, 211);
+    margin-left: 120px;
+    margin-right: 120px;
+    border-radius: 10px;
+  
+}
+.cl{
+    margin-top: 60px;
+    margin-left: 100px;
+
+}
+#ip{
+    color: rgb(239, 242, 245);
+}
+#co{
+    font-size: 30px;
+    color: rgb(239, 242, 245);
+}
+#be{
+    font-size: 25px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    color: rgb(239, 242, 245);
+}
+#ph{
+    /* mix-blend-mode:color-burn; */
+    margin-left: 200px;
+    border-radius: 10px;
 }
 /* -----------------------------------------------------------------------------top products----------------------------------------------------------------- */
 #top{
@@ -275,6 +309,35 @@ padding-left: 100px;
     font-size: 15px;
     margin-top: 10px;
 }
-/* -------------------------------------------------------------------------------- */
-
+/* ---------------------------------------------------------------------------contact----- */
+#tact{
+    margin-left: 650px;
+    margin-top: 80px;
+    font-size: 40px;
+   margin-bottom: 20px;
+}
+.fm {
+    border: 1px solid pink;
+   margin-left: 500px;
+  margin-right: 500px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+   background-color:whitesmoke;
+}
+.fm input{
+    margin-top: 10px;
+    margin-left: 35px;
+    padding: 10px 230px 10px 5px;
+     border-radius: 10px;
+      border: 1px solid pink;
+}
+#send{
+      margin-top: 20px;
+      margin-left: 180px;
+      margin-bottom: 50px;
+      padding: 10px 20px;
+}
+#nm{
+    margin-top: 40px;
+}
 
